@@ -98,6 +98,11 @@ public class PSI2 {
                 System.out.println(jackDialogue + "Well looks like Jackie boy "
                         + "is all alone yet again.");
                 break;
+                /*
+                 * The break statement prevents the statement from 'falling through'
+                 * by exiting the switch statement and proceeding to the next print
+                 * statement
+                 */
             default:
                 System.out.println(jackDialogue + "Let's make sure I haven't "
                         + "left a lad! Let me count it up...");
