@@ -26,15 +26,15 @@ Create if/else constructs - Ship.java Line 24
 Create ternary constructs - PSI2.java Line 85
 Use a switch statement - PSI2.java Line 96
 Compare two String objects by using the compareTo and equals methods and make a comment describing how == works with objects - PSI2.java Line 123 & 125
-Use +, -, *, /, %, ++, --, += - Ship.java Line 11, Ship.java Line 24, Ship.java Line 26, Ship.java Line 27, PSI2.java Line 69, PSI2.java Line 104, PSI2.java Line 88, PSI2.java Line 138
+Use +, -, *, /, %, ++, --, += - Ship.java Line 11, Ship.java Line 24, Ship.java Line 26, Ship.java Line 27, PSI2.java Line 69, PSI2.java Line 109, PSI2.java Line 88, PSI2.java Line 143
 Use relational operators - PSI2.java Line 89
 Use conditional operators - Ship.java Line 24
 Describe operator precedence as a comment - PSI2.java Line 22
-Create and use while loops - PSI2.java Line 123
-Create and use for loops - PSI2.java Line 104
+Create and use while loops - PSI2.java Line 128
+Create and use for loops - PSI2.java Line 109
 Create and use do/while loops - PSI2.java Line 83
 Use break in a loop with a comment describing what it does - PSI2.java Line 100
-Use continue in a loop with a comment describing what it does - PSI2.java Line 113
+Use continue in a loop with a comment describing what it does - PSI2.java Line 112
 
 PSI 3
 Make a class in a separate file with private fields, public getters and setters, a constructor with and without parameters
