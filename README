@@ -25,7 +25,7 @@ Use the Math class - PSI2.java Line 87
 Create if/else constructs - Ship.java Line 24
 Create ternary constructs - PSI2.java Line 85
 Use a switch statement - PSI2.java Line 96
-Compare two String objects by using the compareTo and equals methods and make a comment describing how == works with objects - PSI2.java Line 123 & 125
+Compare two String objects by using the compareTo and equals methods and make a comment describing how == works with objects - PSI2.java Line 128 & 130
 Use +, -, *, /, %, ++, --, += - Ship.java Line 11, Ship.java Line 24, Ship.java Line 26, Ship.java Line 27, PSI2.java Line 69, PSI2.java Line 109, PSI2.java Line 88, PSI2.java Line 143
 Use relational operators - PSI2.java Line 89
 Use conditional operators - Ship.java Line 24
