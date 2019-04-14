@@ -14,7 +14,7 @@ public class Ship {
 
     /*
      * The line below is the header for the method getShip The getShip method
-     * has the parameters 'crewNum and 'capital'
+     * has the parameters 'men' and 'capital'
      */
     public static String getShip(int men, int capital) {
         String ship;
