@@ -236,9 +236,9 @@ public class PSI3 {
         System.out.println(jackDialogue + "Well men, with all this fog we'll be"
                 + " needing one of us to climb up the ol' rickety crow's nest.");
         System.out.println("I propose it be the lightest of our " + accumulator
-                + " overall pounds of scurvy. That'd be our lad Ben, from "
-                + "bunker number " + lightestIndex + ", weighing in at "
-                + lightest + ".");
+                + " overall pounds of scurvy.");
+        System.out.println("That'd be our lad Ben, from " + "bunk number "
+                + lightestIndex + ", weighing in at " + lightest + ".");
 
         System.out.println(ending);
     }
