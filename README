@@ -2,52 +2,52 @@
 
 
 PSI 1
-Add your name as a comment at top of every file - Line 2
-Add a description of the program as a comment at top - Line 3
-Add a list and description of Java built-in data types within the user interface or in comments - Line 8
-Add a greeting / introduction to the user - Line 55
-Use a boolean variable with an appropriate name  (singular noun, lowerCamelCase) - Line 45
-Use an int variable with an appropriate name (singular noun, lowerCamelCase) - Line 46
-Use an double variable with an appropriate name (singular noun, lowerCamelCase) - Line 47
-Use a String object with an appropriate name (singular noun, lowerCamelCase) - Line 44
-Define (in English) the term "variable" as it relates to computer programming in a comment or the user interface - Line 20
-Define (in English) the term "scope" as it relates to computer programming in a comment or the user interface - Line 21
-Use final with a variable and describe what it means in a comment - Line 42
-Use casting and describe what it means in a comment - Line 66
-Format strings using escape sequences - Line 58
+Add your name as a comment at top of every file - Psi3.java Line 9
+Add a description of the program as a comment at top - Psi3.java Line 3
+Add a list and description of Java built-in data types within the user interface or in comments - Psi3.java Line 12
+Add a greeting / introduction to the user - Psi3.java Line 62
+Use a boolean variable with an appropriate name  (singular noun, lowerCamelCase) - Psi3.java Line 57
+Use an int variable with an appropriate name (singular noun, lowerCamelCase) - Psi3.java Line 58
+Use an double variable with an appropriate name (singular noun, lowerCamelCase) - Psi3.java Line 59
+Use a String object with an appropriate name (singular noun, lowerCamelCase) - Psi3.java Line 52
+Define (in English) the term "variable" as it relates to computer programming in a comment or the user interface - Psi3.java Line 24
+Define (in English) the term "scope" as it relates to computer programming in a comment or the user interface - Psi3.java Line 25
+Use final with a variable and describe what it means in a comment - Psi3.java Line 54
+Use casting and describe what it means in a comment - Psi3.java Line 73
+Format strings using escape sequences - Psi3.java Line 62
 
 PSI 2
-Create a method with arguments and return values - Ship.java Line 19
-Identify a method call and argument in comments - PSI2.java Line 90
-Identify a header and parameter in comments - Ship.java Line 16
-Use the Random class - Ship.java Line 11
-Use the Math class - PSI2.java Line 87
-Create if/else constructs - Ship.java Line 24
-Create ternary constructs - PSI2.java Line 85
-Use a switch statement - PSI2.java Line 96
-Compare two String objects by using the compareTo and equals methods and make a comment describing how == works with objects - PSI2.java Line 128 & 130
-Use +, -, *, /, %, ++, --, += - Ship.java Line 11, Ship.java Line 24, Ship.java Line 26, Ship.java Line 27, PSI2.java Line 69, PSI2.java Line 109, PSI2.java Line 88, PSI2.java Line 143
-Use relational operators - PSI2.java Line 89
-Use conditional operators - Ship.java Line 24
-Describe operator precedence as a comment - PSI2.java Line 22
-Create and use while loops - PSI2.java Line 128
-Create and use for loops - PSI2.java Line 109
-Create and use do/while loops - PSI2.java Line 83
-Use break in a loop with a comment describing what it does - PSI2.java Line 100
-Use continue in a loop with a comment describing what it does - PSI2.java Line 112
+Create a method with arguments and return values - Ship.java Line 37
+Identify a method call and argument in comments - Psi3.java Line 118
+Identify a header and parameter in comments - Ship.java Line 34
+Use the Random class - Ship.java Line 22
+Use the Math class - Psi3.java Line 107
+Create if/else constructs - Ship.java Line 42
+Create ternary constructs - Psi3.java Line 104
+Use a switch statement - Psi3.java Line 125
+Compare two String objects by using the compareTo and equals methods and make a comment describing how == works with objects - Psi3.java Lines 162, 164, & 31
+Use +, -, *, /, %, ++, --, += - Ship.java Line 22, Ship.java Line 42, Ship.java Line 44, Ship.java Line 45, Psi3.java Line 75, Psi3.java Line 137, Psi3.java Line 108, Psi3.java Line 179
+Use relational operators - Psi3.java Line 103
+Use conditional operators - Ship.java Line 42
+Describe operator precedence as a comment - Psi3.java Line 26
+Create and use while loops - Psi3.java Line 162
+Create and use for loops - Psi3.java Line 137
+Create and use do/while loops - Psi3.java Line 102
+Use break in a loop with a comment describing what it does - Psi3.java Line 168
+Use continue in a loop with a comment describing what it does - Psi3.java Line 140
 
 PSI 3
 Make a class in a separate file with private fields, public getters and setters, a constructor with and without parameters - Person.java
 Overload a method - Person.java
-Describe inheritance and its benefits - PSI3.java Line 29
-Develop code that makes use of polymorphism - Person.java & Sailor.java
-Use super and this to access objects and constructors - Sailor.java Line 15 & 11
-Declare, instantiate, initialize and use a one-dimensional array - PSI3.java Line 223
-Manually find the smallest value in an array - PSI3.java Line 230
-Get a sum of the values in an array using an accumulator. - PSI3.java Line 226
-Search an array and identify the index where a value was found. - PSI3.java Line 233
-Create and use the enhanced for loop - PSI3.java Line 225
-Declare, instantiate, initialize and use multi-dimensional arrays - PSI3.java Line 175
-Declare and use an ArrayList of a given type - PSI3.java Line 175
-Search a two-dimensional array and identify the coordinates where a value was found - PSI3.java Line 190
-Effectively utilize exception handling for user input of an int - PSI3.java Line 103
+Describe inheritance and its benefits - Psi3.java Line 33
+Develop code that makes use of polymorphism - Psi3.java Line 233
+Use super and this to access objects and constructors - Sailor.java Line 40 & 29
+Declare, instantiate, initialize and use a one-dimensional array - Psi3.java Line 233
+Manually find the smallest value in an array - Psi3.java Line 254
+Get a sum of the values in an array using an accumulator. - Psi3.java Line 246
+Search an array and identify the index where a value was found. - Psi3.java Line 254
+Create and use the enhanced for loop - Psi3.java Line 241
+Declare, instantiate, initialize and use multi-dimensional arrays - Psi3.java Line 188
+Declare and use an ArrayList of a given type - Psi3.java Line 188
+Search a two-dimensional array and identify the coordinates where a value was found - Psi3.java Line 203
+Effectively utilize exception handling for user input of an int - Psi3.java Line 106
